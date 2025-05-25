@@ -1,0 +1,15 @@
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/bin/Debug/net9.0/Guided and Challenge Project
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/bin/Debug/net9.0/Guided and Challenge Project.deps.json
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/bin/Debug/net9.0/Guided and Challenge Project.runtimeconfig.json
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/bin/Debug/net9.0/Guided and Challenge Project.dll
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/bin/Debug/net9.0/Guided and Challenge Project.pdb
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.AssemblyInfoInputs.cache
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.AssemblyInfo.cs
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.csproj.CoreCompileInputs.cache
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.sourcelink.json
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.dll
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/refint/Guided and Challenge Project.dll
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.pdb
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/Guided and Challenge Project.genruntimeconfig.cache
+/Users/jannatulnaima/Documents/code/projects/Guided-and-Challenge-Project/Guided and Challenge Project/obj/Debug/net9.0/ref/Guided and Challenge Project.dll
