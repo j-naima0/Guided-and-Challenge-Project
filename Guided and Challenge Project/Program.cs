@@ -128,8 +128,6 @@ switch (product[2])
 
 Console.WriteLine($"Product: {size} {color} {type}");
 
-*/
-
 //FizzBuzz challenge using for and if statements
 for (int i = 1; i < 101; i++)
 {
@@ -142,3 +140,26 @@ for (int i = 1; i < 101; i++)
     else
         Console.WriteLine($"{i}");
 }
+*/
+//challenge activity using do and while iteration statements
+
+int hero = 10;
+int monster = 10;
+
+Random dice = new Random();
+
+do
+{
+    int roll = dice.Next(1, 11);
+    monster -= roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
+
+    if (monster <= 0) continue;
+
+    roll = dice.Next(1, 11);
+    hero -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+} while (hero > 0 && monster > 0);
+
+Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
